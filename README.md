@@ -5,7 +5,7 @@ This is a list to track what I have read.
 Over the years I have been keeping lists in different places and different formats. I think using git provides the simplest (plain text based) and the most efficient way to track my reading. [Jamie Rubin's post](https://www.jamierubin.net/2015/06/27/maintaining-my-reading-list-as-a-github-repo-using-atom-1-0/) inspired to me create this repo and start using it regularly. I am also borrowing the format from Jamie (with some slight changes, the format will be simple, no hyperlinks): 
 
 ```
-<number>.[space]<title> by <author>; <page>; <date_finished/YYYY/MM/DD> 
+<number>.[space]<title> by <author>; <date_finished/YYYY/MM/DD> 
 ```
 This simple format will be useful to parse the text and process it later if needed. The list will be primarily for books in print (maybe I will create a separate list for articles and papers). And I like the idea of using the commit message for comments. 
 
