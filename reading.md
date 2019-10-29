@@ -8,4 +8,5 @@
 7. Gun Island by Amitav Ghosh; 2019/09/27
 8. Quichotte by Salman Rushdie; 2019/10/05
 9. The Story of My Teeth by Valeria Luiselli; 2019/03/26
-10. The Japanese Corpse by Janwillem van de Wetering; 2019/1022 
+10. The Japanese Corpse by Janwillem van de Wetering; 2019/10/22 
+11. Fractured by Clár Ní Chonghaile; 2019/10/29
