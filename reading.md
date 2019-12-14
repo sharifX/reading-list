@@ -11,4 +11,6 @@
 10. The Japanese Corpse by Janwillem van de Wetering; 2019/10/22 
 11. Fractured by Clár Ní Chonghaile; 2019/10/29
 12. Fahrenheit 451 by Ray Bradbury; 2019/11/14 
+13. Reassembling rubbish: worlding electronic waste by Josh Lepawsky; 2019/12/04
+14. The Good Thief's Guide to Amsterdam by Chris Ewan; 2019/12/14
 
