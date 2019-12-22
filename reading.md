@@ -13,4 +13,10 @@
 12. Fahrenheit 451 by Ray Bradbury; 2019/11/14 
 13. Reassembling rubbish: worlding electronic waste by Josh Lepawsky; 2019/12/04
 14. The Good Thief's Guide to Amsterdam by Chris Ewan; 2019/12/14
+15. Normal People By Sally Rooney; 2019/06/01 
+16. How to Fight Islamist Terror from the Missionary Position by Tabish Khair; 2019/06/01 
+17. The Laughing Monsters by Denis Johnson; 2019/06/01 
+18. The Patch by John McPhee; 2019/06/01 
+19. Credulity: A Cultural History of US Mesmerism by Emily Ogden; 2019/06/01 
+20. A Little Lumpen Novelita by Roberto Bolañol by 2019/06/01
 
