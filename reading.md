@@ -18,5 +18,6 @@
 17. The Laughing Monsters by Denis Johnson; 2019/06/01 
 18. The Patch by John McPhee; 2019/06/01 
 19. Credulity: A Cultural History of US Mesmerism by Emily Ogden; 2019/06/01 
-20. A Little Lumpen Novelita by Roberto Bolañol by 2019/06/01
+20. A Little Lumpen Novelita by Roberto Bolañol; 2019/06/01
+21. Killing Commendatore by Haruki Murakami; 2020/01/07
 
