@@ -21,4 +21,5 @@
 20. A Little Lumpen Novelita by Roberto Bolañol; 2019/06/01
 21. Killing Commendatore by Haruki Murakami; 2020/01/07
 22. Every Day a Good Day: Fifteen Lessons I Learned about Happiness from Japanese Tea Culture by Noriko Morishita; 2020/01/08
+23. The Ministry of Utmost Happiness by Arundhati Roy; 2020/01/30
 
