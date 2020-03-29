@@ -24,4 +24,5 @@
 23. The Ministry of Utmost Happiness by Arundhati Roy; 2020/01/30
 24. Weather by Jenny Offill; 2020/02/15
 25. Old Man's War by John Scalzi; 2020/03/12
+26. Lake Success by Gary Shteyngart; 2020/03/29
 
