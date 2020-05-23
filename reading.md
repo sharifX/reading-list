@@ -26,4 +26,5 @@
 25. Old Man's War by John Scalzi; 2020/03/12
 26. Lake Success by Gary Shteyngart; 2020/03/29
 27. In the Woods by Tana French; 2020/05/11
+28. Leonard and Hungry Paul by Rónán Hession; 2020/05/23
 
