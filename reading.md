@@ -28,4 +28,5 @@
 27. In the Woods by Tana French; 2020/05/11
 28. Leonard and Hungry Paul by Rónán Hession; 2020/05/23
 29. Generous Thinking: A Radical Approach to Saving the University by Kathleen Fitzpatrick; 2020/05/30
+30. Gods of the Upper Air: How a Circle of Renegade Anthropologists Reinvented Race, Sex, and Gender in the 20th Century by Charles King; 2020/07/30
 
