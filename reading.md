@@ -31,4 +31,5 @@
 30. Gods of the Upper Air: How a Circle of Renegade Anthropologists Reinvented Race, Sex, and Gender in the 20th Century by Charles King; 2020/07/30
 31. I Don’t Expect Anyone to Believe Me by Juan Pablo Villalobos (translated by Daniel Hahn); 2020/08/17
 33. Mildew by Paulette Jonguitud (translated from the Spanish by the author); 2020/08/31
+34. The Memory Police by Yōko Ogawa (translated from Japanese by Stephen Snyder); 2020/11/29
 
