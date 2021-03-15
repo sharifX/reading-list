@@ -32,4 +32,6 @@
 31. I Don’t Expect Anyone to Believe Me by Juan Pablo Villalobos (translated by Daniel Hahn); 2020/08/17
 33. Mildew by Paulette Jonguitud (translated from the Spanish by the author); 2020/08/31
 34. The Memory Police by Yōko Ogawa (translated from Japanese by Stephen Snyder); 2020/11/29
+35. Cloud Ethics: Algorithms and the Attributes of Ourselves and Others by Louise Amoore; 2021/01/23
+36. Fatal Discord: Erasmus, Luther, and the Fight for the Western Mind by Michael Massing; 2021/03/08
 
