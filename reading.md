@@ -34,5 +34,7 @@
 34. The Memory Police by Yōko Ogawa (translated from Japanese by Stephen Snyder); 2020/11/29
 35. Cloud Ethics: Algorithms and the Attributes of Ourselves and Others by Louise Amoore; 2021/01/23
 36. Fatal Discord: Erasmus, Luther, and the Fight for the Western Mind by Michael Massing; 2021/03/08
-37. Seven Nights at the Flamingo Hotel by  Drew Gummerson; 2021/05/03
+37. Subprime Attention Crisis: Advertising and the Time Bomb at the Heart of the Internet by Tim Hwang 2021/04/30
+38. Seven Nights at the Flamingo Hotel by  Drew Gummerson; 2021/05/03
+39. On earth we're briefly gorgeous by Ocean Vuong; 2021/06/07
 
