@@ -37,4 +37,5 @@
 37. Subprime Attention Crisis: Advertising and the Time Bomb at the Heart of the Internet by Tim Hwang 2021/04/30
 38. Seven Nights at the Flamingo Hotel by  Drew Gummerson; 2021/05/03
 39. On earth we're briefly gorgeous by Ocean Vuong; 2021/06/07
+40. The Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence by Kate Crawford; 2021/07/23
 
