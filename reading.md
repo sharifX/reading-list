@@ -38,4 +38,5 @@
 38. Seven Nights at the Flamingo Hotel by  Drew Gummerson; 2021/05/03
 39. On earth we're briefly gorgeous by Ocean Vuong; 2021/06/07
 40. The Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence by Kate Crawford; 2021/07/23
-41. Single & Single: John Le Carré; 2021/08/15
+41. Single & Single by John Le Carré; 2021/08/15
+42. The Three-Body Problem by Cixin Liu (translated by Ken Liu); 2021/08/30 
