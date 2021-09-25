@@ -40,3 +40,4 @@
 40. The Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence by Kate Crawford; 2021/07/23
 41. Single & Single by John Le Carré; 2021/08/15
 42. The Three-Body Problem by Cixin Liu (translated by Ken Liu); 2021/08/30 
+43. Braiding Sweetgrass by Robin Wall Kimmerer; 2021/09/25
