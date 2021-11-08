@@ -42,3 +42,4 @@
 42. The Three-Body Problem by Cixin Liu (translated by Ken Liu); 2021/08/30 
 43. Braiding Sweetgrass by Robin Wall Kimmerer; 2021/09/25
 44. The Island of Missing Trees by Elif Shafak; 2021/10/13
+45. Jeff in Venice, Death in Varanasi by Geoff Dyer; 2021/11/08
