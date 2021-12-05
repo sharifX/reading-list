@@ -43,3 +43,6 @@
 43. Braiding Sweetgrass by Robin Wall Kimmerer; 2021/09/25
 44. The Island of Missing Trees by Elif Shafak; 2021/10/13
 45. Jeff in Venice, Death in Varanasi by Geoff Dyer; 2021/11/08
+46. Insular Destinies: Perspectives on the History and Politics of Modern Cyprus by Paschalis Kitromilides; 2021/11/15
+47. Search Inside Yourself by Chade-Meng Tan; 2021/11/22
+48. 10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works--A True Story by Dan Harris; 12/02/21
