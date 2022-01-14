@@ -47,3 +47,5 @@
 47. Search Inside Yourself by Chade-Meng Tan; 2021/11/22
 48. 10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works--A True Story by Dan Harris; 12/02/21
 49. Ms Ice Sandwich by Mieko Kawakami translated by Louise Heal Kawai; 12/18/2021
+50. মহীনের ঘোড়াগুলির গান by সাজ্জাদ হুসাইন; 12/26/2021
+51. কবীরা, কবীর সুমনের আত্মদর্শন by সাজ্জাদ হুসাইন; 12/29/2021
