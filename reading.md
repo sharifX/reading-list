@@ -45,7 +45,13 @@
 45. Jeff in Venice, Death in Varanasi by Geoff Dyer; 2021/11/08
 46. Insular Destinies: Perspectives on the History and Politics of Modern Cyprus by Paschalis Kitromilides; 2021/11/15
 47. Search Inside Yourself by Chade-Meng Tan; 2021/11/22
-48. 10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works--A True Story by Dan Harris; 12/02/21
-49. Ms Ice Sandwich by Mieko Kawakami translated by Louise Heal Kawai; 12/18/2021
-50. মহীনের ঘোড়াগুলির গান by সাজ্জাদ হুসাইন; 12/26/2021
-51. কবীরা, কবীর সুমনের আত্মদর্শন by সাজ্জাদ হুসাইন; 12/29/2021
+48. 10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works--A True Story by Dan Harris; 2021/12/02
+49. Ms Ice Sandwich by Mieko Kawakami translated by Louise Heal Kawai; 2021/12/18 
+50. মহীনের ঘোড়াগুলির গান by সাজ্জাদ হুসাইন; 2021/12/26 
+51. কবীরা, কবীর সুমনের আত্মদর্শন by সাজ্জাদ হুসাইন; 2021/12/29
+52. My Uncle Napoleon by Iraj Pezeshkzad translated by Dick Davis; 2022/01/29
+53. Elena Knows by Claudia Piñeiro translated by Frances Riddle; 2022/03/07
+54. In Love: A Memoir of Love and Loss by Amy Bloom; 2022/04/25
+55. Tomb of Sand by Geetanjali Shree translated by Daisy Rockwell; 2022/07/15
+56. Our Country Friends by Gary Shteyngart; 2022/07/29
+57. 
