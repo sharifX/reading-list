@@ -54,4 +54,9 @@
 54. In Love: A Memoir of Love and Loss by Amy Bloom; 2022/04/25
 55. Tomb of Sand by Geetanjali Shree translated by Daisy Rockwell; 2022/07/15
 56. Our Country Friends by Gary Shteyngart; 2022/07/29
-57. 
+57. The Netanyahus by Joshua Cohen; 2022/12/22
+58. অঞ্জনযাত্রা by সাজ্জাদ হুসাইন; 2022/12/28
+59. সুমনামি by কবীর সুমন; 2023/01/03
+60. Stoner by John Williams; 2023/02/10
+61. The Last Word by Hanif Kureishi; 2023/03/02
+62. 
